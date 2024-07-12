@@ -6,5 +6,5 @@
 2. ./a.out <br />
 
 # Hello Pugs <br />
-**Coming Soon!** <br />
+1. helloPugs.c - Hello Pugs in C (Hello World!). <br />
 
